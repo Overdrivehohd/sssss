@@ -1,4 +1,3 @@
 {
-  "Lol": {"Expiry": 1768772753},
-  "MasterKey": {"Expiry": 2000000000}
+  "Lol": {"Expiry": 1868772753}
 }
