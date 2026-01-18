@@ -1,4 +1,3 @@
 {
-  "Lol": {"Expiry": 1768702210, "Owner": "User1"},
-  "TrialKey": {"Expiry": 1737223200, "Owner": "User2"}
+  "1HourKey": {"Expiry": "2026-01-18 14:36:00"}
 }
